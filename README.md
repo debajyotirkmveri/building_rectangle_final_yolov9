@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Make runs folder
 ~~~
 mkdir runs
-~~
+~~~
 ## Go to the runs folder
 ~~~
 cd runs
@@ -34,7 +34,7 @@ streamlit run app.py
 ![image](https://github.com/debajyotirkmveri/building_rectangle_final/blob/main/building_obb/result_show/Post_Event_9845.jpg)
 
 ## The output of the app given 
-![image](https://github.com/debajyotirkmveri/building_rectangle_final/blob/main/building_obb/sample.png)
+![image](https://github.com/debajyotirkmveri/building_rectangle_final_yolov9/blob/main/Screenshot%20from%202024-05-14%2000-04-21.png)
 
 
 
