@@ -31,7 +31,7 @@ cd  building_rectangle_final_yolov9
 streamlit run app.py
 ~~~
 ## load the image from result folder
-![image](https://github.com/debajyotirkmveri/building_rectangle_final/blob/main/building_obb/result_show/Post_Event_9845.jpg)
+![image](https://github.com/debajyotirkmveri/building_rectangle_final_yolov9/blob/main/result_show/Post_Event_9847.jpg)
 
 ## The output of the app given 
 ![image](https://github.com/debajyotirkmveri/building_rectangle_final_yolov9/blob/main/Screenshot%20from%202024-05-14%2000-04-21.png)
